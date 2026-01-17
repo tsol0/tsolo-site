@@ -243,6 +243,7 @@ body {
 .profile-photo:hover {
     transform: scale(1.05);
     border-color: var(--primary-blue);
+    box-shadow: 0 0 0 4px var(--primary-silver), 0 0 0 8px var(--primary-blue);
 }
 
 .profile-photo img {
